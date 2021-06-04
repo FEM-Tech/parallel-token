@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: white;
+    color: rgb(21, 40, 58)
+}
+
+.punctuation {
+    color: rgb(90, 97, 233);
+    font-style: italic
+}
+
+.object-keyword {
+    color: rgb(173, 31, 85);
+}
+
+.string {
+    color: rgb(145, 31, 173);
+}
+
+.int {
+    color: blue;
+}
+
+.boolean {
+    color: red;
+}
+
+.object-key {
+    color: rgb(46, 104, 99);
+    font-style: bold
+}
+
+
+
+
+
+
+
+
+
